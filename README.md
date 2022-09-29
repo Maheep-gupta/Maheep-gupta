@@ -1,6 +1,7 @@
-<img src='banner.png' alt="banner"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingstuffsofmahee&label=Visitors+&color=0e75b6&style=flat&color=blue" alt="codingstuffsofmahee" /> </p>
+<img src='banner.png' alt="banner"></img>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat+&pause=1000&color=67F7BE&width=620&lines=Hey%2C+I+am+Maheep+Gupta+;I+am+passionate+to+learn+FullStack+Web+Development+)](https://git.io/typing-svg)
 
