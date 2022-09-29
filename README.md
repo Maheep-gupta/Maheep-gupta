@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat+&pause=1000&color=67F7BE&width=620&lines=Hey%2C+I+am+Maheep+Gupta+;I+am+passionate+to+learn+FullStack+Web+Development+)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstuffsofmahee" alt="codingstuffsofmahee" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&theme=gruvbox&no-bg=true&column=-1)
 
 <p align="left"> <a href="https://twitter.com/maheep_gupta_" target="blank"><img src="https://img.shields.io/twitter/follow/maheep_gupta_?logo=twitter&style=for-the-badge" alt="maheep_gupta_" /></a> </p>
 
