@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/maheep gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheep gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/maheep__gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheep__gupta" height="30" width="40" /></a>
 </p>
-(https://github-readme-stats.vercel.app/api?username=CodingStuffsofMahee)](https://github.com/anuraghazra/github-readme-stats)
+![Maheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodinfStuffsofMahee&show_icons=true&theme=radical)
 
 
 
