@@ -1,4 +1,4 @@
-<img src='images/Github_banner.png' alt="banner"></img>
+<img src='banner.png' alt="banner"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingstuffsofmahee&label=Visitors+&color=0e75b6&style=flat&color=blue" alt="codingstuffsofmahee" /> </p>
 
