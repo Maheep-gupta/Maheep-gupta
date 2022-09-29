@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat+&pause=1000&color=67F7BE&width=435&lines=Hey%2C+I+am+Maheep+Gupta+;I+am+passionate+to+learn+FullStack+Web+Development+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat+&pause=1000&color=67F7BE&width=620&lines=Hey%2C+I+am+Maheep+Gupta+;I+am+passionate+to+learn+FullStack+Web+Development+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingstuffsofmahee&label=Profile%20views&color=0e75b6&style=flat" alt="codingstuffsofmahee" /> </p>
 
