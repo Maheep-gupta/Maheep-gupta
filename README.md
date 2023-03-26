@@ -1,6 +1,5 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingstuffsofmahee&label=Visitors+&color=0e75b6&style=flat&color=blue" alt="codingstuffsofmahee" /> </p>
-<img src='banner.png' alt="banner"></img>
+[![](https://visitcount.itsvg.in/api?id=CodingStuffsofMahee&icon=2&color=1)](https://visitcount.itsvg.in)
+<br><img src='banner.png' alt="banner"></img>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat+&pause=1000&color=67F7BE&width=620&lines=Hey%2C+I+am+Maheep+Gupta+;I+am+passionate+to+learn+Java+FullStack+Web+Development+)](https://git.io/typing-svg)
@@ -28,7 +27,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodingStuffsofMahee&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
