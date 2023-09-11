@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Portfolio-Maheep Gupta](https://github.com/CodingStuffsofMahee/Portfolio-MaheepGupta)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://portfolio-maheep-gupta.web.app/<br><br>📫 How to reach me maheepgupta321@gmail.com
+🔭 I’m currently working on [Portfolio-Maheep Gupta](https://github.com/CodingStuffsofMahee/Portfolio-MaheepGupta)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://maheep-gupta.netlify.app/<br><br>📫 How to reach me maheepgupta321@gmail.com
 
 
 ## 🌐 Socials:
