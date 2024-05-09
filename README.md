@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=CodingStuffsofMahee&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Maheep-gupta&icon=2&color=1)](https://visitcount.itsvg.in)
 <br><img src='banner.png' alt="banner"></img>
 
 
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Portfolio-Maheep Gupta](https://github.com/CodingStuffsofMahee/portfolio-react)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://maheep-gupta.vercel.app/projects<br><br>📫 How to reach me maheepgupta321@gmail.com
+🔭 I’m currently working on [Portfolio-Maheep Gupta](https://github.com/Maheep-gupta/portfolio-react)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://maheep-gupta.vercel.app/projects<br><br>📫 How to reach me maheepgupta321@gmail.com
 
 
 ## 🌐 Socials:
@@ -19,9 +19,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodingStuffsofMahee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodingStuffsofMahee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingStuffsofMahee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Maheep-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maheep-gupta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maheep-gupta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
