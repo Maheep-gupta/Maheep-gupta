@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Portfolio-Maheep Gupta](https://github.com/Maheep-gupta/portfolio-react)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://maheep-gupta.vercel.app/projects<br><br>📫 How to reach me maheepgupta321@gmail.com
+🔭 I’m currently working on [College Community](https://github.com/Mohitgop/collegeCommunity-frontend)<br><br>🌱 I’m currently learning MERN Stack<br><br>👨‍💻 All of my projects are available at https://maheep-gupta.vercel.app/projects<br><br>📫 How to reach me maheepgupta321@gmail.com
 
 
 ## 🌐 Socials:
